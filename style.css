@@ -1,0 +1,15 @@
+body{
+    background: url(man-and-woman-holding-battle-ropes-1552242.jpg);
+    no-repeat center center fixed;
+    background-size: cover
+}
+
+div{
+    background-color: orange;
+    width: 25%;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 50px;
+    font-size: 3em;
+    opacity: 0.6;
+}
